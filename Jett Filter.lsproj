@@ -1,0 +1,815 @@
+{
+    "lens_id": "",
+    "document_id": "5PilKRfFNCC92y6xb8Nl",
+    "original_document_id": "3TmKOx6aP6Py-dJPxQ9r",
+    "version": "28",
+    "lastChanged": "1630958138866",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "1",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Behavior"
+                    ],
+                    [
+                        "Behavior 2"
+                    ],
+                    [
+                        "Valorant Font"
+                    ],
+                    [
+                        "Valorant green screen - Jett's knife slow mo"
+                    ],
+                    [
+                        "jett"
+                    ],
+                    [
+                        "jett intro"
+                    ],
+                    [
+                        "jett knife"
+                    ],
+                    [
+                        "jett knife sound"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "1e8d9d5d5e6558fa53d54cf5bc4ef943",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "Valorant JETT",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 3.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1630864416292090:137801",
+                    "1630864683429940:172537",
+                    "1630864683437692:172557",
+                    "1630864683639488:172697",
+                    "1630864887074375:200033",
+                    "1630869245911254:601325",
+                    "1630871598798408:1043853",
+                    "1630875469258548:1948882",
+                    "1630875474546066:1951997",
+                    "1630875694242548:2016389",
+                    "1630876247755192:2171391",
+                    "1630876381823966:2205009"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1630863457268476:19777",
+                    "name": "Files\/File8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1630863458169677:19897",
+                    "name": "Files\/File13",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1630864925124690:205074",
+                    "name": "Files\/File15",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1630864969114229:213445",
+                    "name": "Files\/File17",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1630869472541362:632584",
+                    "name": "Files\/File29.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1630869955471952:726130",
+                    "name": "Files\/File30.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1630870575641680:861808",
+                    "name": "Files\/File31.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1630873448676826:1519598",
+                    "name": "Files\/File35.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1630864934459607:206397",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1630864934511440:206535",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "true",
+                                    "attachLeft": "true",
+                                    "attachRight": "true",
+                                    "attachTop": "true"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1630863407923757:13577",
+                "1": "1630864683429558:172536",
+                "2": "1630864683429940:172537",
+                "3": "1630864934434785:206329",
+                "4": "1630864934457701:206395",
+                "5": "1630864934511119:206534",
+                "6": "1630870471868510:844164",
+                "7": "1630875597108492:1979423",
+                "8": "1630876079606091:2142206"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "8",
+                    "v": "Files\/File8"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.lsmat"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.mp4"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.mp4"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.js"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.js"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.ttf"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.mp3"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "970",
+                        "v": "jett knife.lsmat"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Valorant green screen - Jett's knife slow mo.mp4"
+                    },
+                    {
+                        "k": "972",
+                        "v": "jett intro.mp4"
+                    },
+                    {
+                        "k": "973",
+                        "v": "jett.lsmat"
+                    },
+                    {
+                        "k": "982",
+                        "v": "Behavior.js"
+                    },
+                    {
+                        "k": "983",
+                        "v": "Behavior 2.js"
+                    },
+                    {
+                        "k": "984",
+                        "v": "Valorant Font.ttf"
+                    },
+                    {
+                        "k": "990",
+                        "v": "jett knife sound.mp3"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "969",
+                        "v": "befd880b1f08bc12b88ea8af8842e670"
+                    },
+                    {
+                        "k": "970",
+                        "v": "6e99148bc4a560fc66f48e2102d6638b"
+                    },
+                    {
+                        "k": "971",
+                        "v": "1ef601d7e368f42111dee44fd6a64df1"
+                    },
+                    {
+                        "k": "972",
+                        "v": "f329d0fd63e9e6eb58026126d1b792c0"
+                    },
+                    {
+                        "k": "973",
+                        "v": "ec5f021ee4392f4bce6d25754453a00d"
+                    },
+                    {
+                        "k": "974",
+                        "v": "04147fec61e809c3b3d13e10d5bb08ea"
+                    },
+                    {
+                        "k": "975",
+                        "v": "04147fec61e809c3b3d13e10d5bb08ea"
+                    },
+                    {
+                        "k": "976",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "977",
+                        "v": "04147fec61e809c3b3d13e10d5bb08ea"
+                    },
+                    {
+                        "k": "978",
+                        "v": "494eedf4f72b5b66abb42e77205506db"
+                    },
+                    {
+                        "k": "979",
+                        "v": "ca8377da1db0f818775d35e70ba5c7b1"
+                    },
+                    {
+                        "k": "980",
+                        "v": "b44ea0ac7c2b6e0d9995d601b7668c34"
+                    },
+                    {
+                        "k": "981",
+                        "v": "494eedf4f72b5b66abb42e77205506db"
+                    },
+                    {
+                        "k": "982",
+                        "v": "04147fec61e809c3b3d13e10d5bb08ea"
+                    },
+                    {
+                        "k": "983",
+                        "v": "04147fec61e809c3b3d13e10d5bb08ea"
+                    },
+                    {
+                        "k": "984",
+                        "v": "e7322a6673613ab13604fadda3d20e56"
+                    },
+                    {
+                        "k": "985",
+                        "v": "ea440ca83caacd0d17288fabfd2dff3e"
+                    },
+                    {
+                        "k": "986",
+                        "v": "ab42e6219963389b01429c1b8385a7e8"
+                    },
+                    {
+                        "k": "987",
+                        "v": "ab42e6219963389b01429c1b8385a7e8"
+                    },
+                    {
+                        "k": "988",
+                        "v": "ab42e6219963389b01429c1b8385a7e8"
+                    },
+                    {
+                        "k": "989",
+                        "v": "ea440ca83caacd0d17288fabfd2dff3e"
+                    },
+                    {
+                        "k": "990",
+                        "v": "ab42e6219963389b01429c1b8385a7e8"
+                    },
+                    {
+                        "k": "993",
+                        "v": "ff54068a511139d80515f1b509e81321"
+                    },
+                    {
+                        "k": "995",
+                        "v": "8943e51ce4a7e498bbbe40016e57424a"
+                    },
+                    {
+                        "k": "996",
+                        "v": "41082cdb59fee753ea50d224f00e9c7c"
+                    },
+                    {
+                        "k": "997",
+                        "v": "cd71c63c14bdc900f8eb3a311d80f2a5"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-09-06T02:52:19",
+                        "name": "Public",
+                        "hash": "b6c9ed40717dd871c6794a6d4ec85276",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-11T16:58:42",
+                                "name": "Behavior 2.js",
+                                "hash": "04147fec61e809c3b3d13e10d5bb08ea",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-11T16:58:42",
+                                "name": "Behavior.js",
+                                "hash": "04147fec61e809c3b3d13e10d5bb08ea",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-11T16:59:00",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-05T22:09:34",
+                                "name": "jett intro.mp4",
+                                "hash": "f329d0fd63e9e6eb58026126d1b792c0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-06T01:42:34",
+                                "name": "jett knife sound.mp3",
+                                "hash": "ab42e6219963389b01429c1b8385a7e8",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-06T00:49:50",
+                                "name": "jett knife.lsmat",
+                                "hash": "6e99148bc4a560fc66f48e2102d6638b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-06T02:52:19",
+                                "name": "jett.lsmat",
+                                "hash": "ec5f021ee4392f4bce6d25754453a00d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-30T19:54:46",
+                                "name": "Valorant Font.ttf",
+                                "hash": "e7322a6673613ab13604fadda3d20e56",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-05T22:33:48",
+                                "name": "Valorant green screen - Jett's knife slow mo.mp4",
+                                "hash": "1ef601d7e368f42111dee44fd6a64df1",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "jett knife",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1630863457268476:19777",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "970",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Valorant green screen - Jett's knife slow mo",
+                        "type": "1",
+                        "subtype": "7",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1630863458169677:19897",
+                        "fileId": "13",
+                        "originalId": "14",
+                        "publicId": "971",
+                        "source": "D:\/Docs\/Snapchat Filters\/Valorant green screen - Jett's knife slow mo.mp4",
+                        "additional": ""
+                    },
+                    {
+                        "name": "jett",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1630864969114229:213445",
+                        "fileId": "17",
+                        "originalId": "18",
+                        "publicId": "973",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "jett intro",
+                        "type": "1",
+                        "subtype": "7",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1630864925124690:205074",
+                        "fileId": "15",
+                        "originalId": "16",
+                        "publicId": "972",
+                        "source": "D:\/Docs\/Snapchat Filters\/jett intro.mp4",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Behavior",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "25",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1630869472541362:632584",
+                        "fileId": "29",
+                        "originalId": "18446744073709551615",
+                        "publicId": "982",
+                        "source": "D:\/Docs\/Softwares\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Scripts\/BehaviorScript.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Behavior 2",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "26",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1630869955471952:726130",
+                        "fileId": "30",
+                        "originalId": "18446744073709551615",
+                        "publicId": "983",
+                        "source": "D:\/Docs\/Softwares\/Lens Studio\/\/Studio3DResources.bundle\/\/Presets\/Scripts\/BehaviorScript.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Valorant Font",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1630870575641680:861808",
+                        "fileId": "31",
+                        "originalId": "18446744073709551615",
+                        "publicId": "984",
+                        "source": "D:\/Docs\/Snapchat Filters\/Valorant Font.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "jett knife sound",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "31",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1630873448676826:1519598",
+                        "fileId": "35",
+                        "originalId": "18446744073709551615",
+                        "publicId": "990",
+                        "source": "D:\/Docs\/Snapchat Filters\/Jett Filter\/jett knife sound.mp3",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1630864934511119:206534"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": ""
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1630874437791306:1728940",
+                    "v": "7KitymWKlPSnfs6rQeQmWJ"
+                },
+                {
+                    "k": "1630874438242195:1729041",
+                    "v": "7KitymWKlPSnfs6rQeQmWJ"
+                },
+                {
+                    "k": "1630874438377571:1729057",
+                    "v": "7KitymWKlPSnfs6rQeQmWJ"
+                },
+                {
+                    "k": "1630874438444818:1729069",
+                    "v": "7KitymWKlPSnfs6rQeQmWJ"
+                }
+            ]
+        }
+    }
+}
